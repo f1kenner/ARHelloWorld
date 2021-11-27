@@ -14,5 +14,5 @@ Use the AR Hello World package to see what the AR development process looks like
 
 ### 1. Copy the [git web URL](https://github.com/f1kenner/ARHelloWorld)
 
-![AR Hello World copy URL](https://github.com/f1kenner/ARHelloWorld/raw/main/screenshots/installation/AR_HelloWorldcube_gitPackageURL.png)
+![AR Hello World copy URL](/main/screenshots/installation/AR_HelloWorldcube_gitPackageURL.png)
 
